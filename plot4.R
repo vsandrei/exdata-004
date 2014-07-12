@@ -39,7 +39,7 @@ plot(x, data$Voltage,
      xlab = "datetime",
      ylab = "Voltage")
 
-# plot the lower left graphic
+# plot the lower left element
 plot(x, data$Sub_metering_1,
      type = "l",
      xlab = "",
